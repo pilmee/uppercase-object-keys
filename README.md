@@ -1,2 +1,2 @@
-# LOWERCASE OBJECT KEYS
-## npm i lowercase-object-keys
+# UPPERCASE OBJECT KEYS
+## npm i uppercase-object-keys
