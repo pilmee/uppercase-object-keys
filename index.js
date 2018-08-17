@@ -1,1 +1,2 @@
-module.exports = object => JSON.parse(JSON.stringify(object).toUpperCase());
+const _ = require('lodash');
+module.exports = object => _.mapKeys(object, (value, key) => key.toUpperCase());
