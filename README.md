@@ -2,7 +2,7 @@
 
 Instruction that transforms the names of the properties of an object to uppercase.
 
-**How to install?:**
+## How to install?:
 ```bash
 npm i uppercase-object-keys
 ```
@@ -10,7 +10,7 @@ npm i uppercase-object-keys
 npm i uppercase-object-keys --save-dev
 ```
 
-**How to use?**
+## How to use?:
 ```javascript
 var uppercaseObjectKeys = require('uppercase-object-keys');
 var obj = { name: 'Nelida', Age: 30 };
