@@ -1,4 +1,4 @@
-# UPPERCASE OBJECT KEYS
+# UPPERCASE OBJECT KEYS [![Build Status](https://travis-ci.org/pilmee/uppercase-object-keys.svg?branch=master)](https://travis-ci.org/pilmee/uppercase-object-keys)
 
 Instruction that transforms the names of the properties of an object to uppercase.
 
